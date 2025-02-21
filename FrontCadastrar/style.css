@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 40px 0 40px 0;
+    color: rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(3, 38, 38);
+}
+.box, form{
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    width: 240px;
+    height: 24px;
+    border-radius: 30px;
+    padding: 0 14px 0 14px;
+}
+button{
+    width: 140px;
+    height: 24px;
+    border-radius: 14px;
+}
