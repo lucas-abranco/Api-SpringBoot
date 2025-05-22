@@ -1,0 +1,1 @@
+Olá esse foi a minha primeira criação de API Java, ele consiste em um CRUD de usuário, além de uma tela simples para o cadastro de novos usuários, foi minha primeira experiência com manipulação de dados em banco através do java, por mais que seja básico me ajudou a entender diversos conceitos de JPA e SpringBoot.
